@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website showcasing my professional work, skills, and achievements.
 
-🔗 [Live Demo](https://abdoshbr3322.github.io/)
+🔗 [My Portfolio](https://abdoshbr3322.github.io/)
 
 ## 🌟 Features
 
